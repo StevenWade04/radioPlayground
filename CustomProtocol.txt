@@ -1,0 +1,30 @@
+Python v Matlab
+433 MHz 25mW or 915MHz band initially
+Parity bits
+
+Text transfer protocol
+Handshake
+Data information
+Data
+End
+
+Transmitter and Receiver FS1000A XY-MK-5V
+amplitude shift keying
+2.4kBs theoretical limit before range drops, 2400Hz baud rate
+https://zaitronics.com.au/products/433mhz-rf-wireless-transmitter-receiver-kit-fs1000a?srsltid=AfmBOooopbZcSBPtb_cQJ8AuwMFEpcIBPx-qSCp320zgtulo-aRO7iZr
+https://au.mathworks.com/discovery/arduino-programming-matlab-simulink.html
+Antenna design?!?
+
+I'm bad at git
+
+echo "# radioPlayground" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/StevenWade04/radioPlayground.git
+git push -u origin main
+
+!git add .
+!git commit -m "Add new feature / fix bug / update simulation"
+!git push
